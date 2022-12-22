@@ -2,8 +2,8 @@
 minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceerd worden tussen de microcontroller en een smartphone, gebruik makend van HC-05 module
 <br />
 ### configuratie
-draadloze communicatie aansturing led
+Draadloze communicatie aansturing led
 ### opmerkingen
 /
 ### gebruiksaanwijzing
-datasheet + schema
+Datasheet + Schema
