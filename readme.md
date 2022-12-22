@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ATmega328 5V 16MHz
 <br />
-motors: 
+motors: Gear motor 6V - 50:1
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 2x Quickstuff 18650 batterijen
 <br />
-wireless communication:
+wireless communication: HC-05 bluetooth module
 <br />
-distance sensor - motors:
+distance sensor - motors: 12cm
 <br />
-weight:
+weight: 238g
 <br />
-speed: 
+speed: 0,446 m/s
 <br />
